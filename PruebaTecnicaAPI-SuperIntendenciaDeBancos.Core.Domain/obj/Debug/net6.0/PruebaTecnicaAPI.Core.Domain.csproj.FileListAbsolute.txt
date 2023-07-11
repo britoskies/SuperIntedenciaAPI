@@ -1,0 +1,12 @@
+C:\Users\brito\source\repos\PruebaTecnicaAPI-SuperIntendenciaDeBancos\PruebaTecnicaAPI-SuperIntendenciaDeBancos.Core.Domain\bin\Debug\net6.0\PruebaTecnicaAPI.Core.Domain.deps.json
+C:\Users\brito\source\repos\PruebaTecnicaAPI-SuperIntendenciaDeBancos\PruebaTecnicaAPI-SuperIntendenciaDeBancos.Core.Domain\bin\Debug\net6.0\PruebaTecnicaAPI.Core.Domain.dll
+C:\Users\brito\source\repos\PruebaTecnicaAPI-SuperIntendenciaDeBancos\PruebaTecnicaAPI-SuperIntendenciaDeBancos.Core.Domain\bin\Debug\net6.0\PruebaTecnicaAPI.Core.Domain.pdb
+C:\Users\brito\source\repos\PruebaTecnicaAPI-SuperIntendenciaDeBancos\PruebaTecnicaAPI-SuperIntendenciaDeBancos.Core.Domain\obj\Debug\net6.0\PruebaTecnicaAPI.Core.Domain.csproj.AssemblyReference.cache
+C:\Users\brito\source\repos\PruebaTecnicaAPI-SuperIntendenciaDeBancos\PruebaTecnicaAPI-SuperIntendenciaDeBancos.Core.Domain\obj\Debug\net6.0\PruebaTecnicaAPI.Core.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brito\source\repos\PruebaTecnicaAPI-SuperIntendenciaDeBancos\PruebaTecnicaAPI-SuperIntendenciaDeBancos.Core.Domain\obj\Debug\net6.0\PruebaTecnicaAPI.Core.Domain.AssemblyInfoInputs.cache
+C:\Users\brito\source\repos\PruebaTecnicaAPI-SuperIntendenciaDeBancos\PruebaTecnicaAPI-SuperIntendenciaDeBancos.Core.Domain\obj\Debug\net6.0\PruebaTecnicaAPI.Core.Domain.AssemblyInfo.cs
+C:\Users\brito\source\repos\PruebaTecnicaAPI-SuperIntendenciaDeBancos\PruebaTecnicaAPI-SuperIntendenciaDeBancos.Core.Domain\obj\Debug\net6.0\PruebaTecnicaAPI.Core.Domain.csproj.CoreCompileInputs.cache
+C:\Users\brito\source\repos\PruebaTecnicaAPI-SuperIntendenciaDeBancos\PruebaTecnicaAPI-SuperIntendenciaDeBancos.Core.Domain\obj\Debug\net6.0\PruebaTecnicaAPI.Core.Domain.dll
+C:\Users\brito\source\repos\PruebaTecnicaAPI-SuperIntendenciaDeBancos\PruebaTecnicaAPI-SuperIntendenciaDeBancos.Core.Domain\obj\Debug\net6.0\refint\PruebaTecnicaAPI.Core.Domain.dll
+C:\Users\brito\source\repos\PruebaTecnicaAPI-SuperIntendenciaDeBancos\PruebaTecnicaAPI-SuperIntendenciaDeBancos.Core.Domain\obj\Debug\net6.0\PruebaTecnicaAPI.Core.Domain.pdb
+C:\Users\brito\source\repos\PruebaTecnicaAPI-SuperIntendenciaDeBancos\PruebaTecnicaAPI-SuperIntendenciaDeBancos.Core.Domain\obj\Debug\net6.0\ref\PruebaTecnicaAPI.Core.Domain.dll
